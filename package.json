@@ -1,0 +1,25 @@
+{
+  "name": "cookie-example",
+  "version": "1.0.0",
+  "private": true,
+  "description": "cookie-example",
+  "author": "Victor Alonso Altamirano Izquierdo",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "gatsby": "^2.26.1",
+    "react": "^16.13.1",
+    "react-cookie": "^4.0.3",
+    "react-dom": "^16.13.1",
+    "reactstrap": "^8.8.1"
+  }
+}
