@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "bootstrap": "^4.5.3",
-    "gatsby": "^2.26.1",
+    "gatsby": "^4.25.7",
     "react": "^16.13.1",
     "react-cookie": "^4.0.3",
     "react-dom": "^16.13.1",
